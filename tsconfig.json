@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "outDir": "./built",
+        "allowJs": true,
+        "target": "es6",
+        "types": ["node", "jasmine", "core-js", "superagent"]
+    },
+    "include": [
+        "./src/**/*"
+    ]
+}

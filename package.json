@@ -1,0 +1,18 @@
+{
+  "name": "pet-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "my-generate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/core-js": "^0.9.41",
+    "@types/jasmine": "^2.5.47",
+    "@types/node": "^7.0.13",
+    "@types/superagent": "^2.0.36",
+    "core-js": "^2.4.1"
+  }
+}
